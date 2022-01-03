@@ -2,6 +2,8 @@
  <router-view></router-view>
 </template>
 
+<style lang="scss" src="./assets/css/test.scss"></style>
+
 <script>
 export default {};
 </script>
