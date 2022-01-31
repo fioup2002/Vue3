@@ -10,7 +10,7 @@
     <div class="contract">道歉詢問:請洽Ice，他會給你滿意的答覆，感謝妳的使用，希望妳能消氣</div>
   </div>
 </template>
-
+<style scoped lang="scss" src=".././assets/css/test.scss"></style>
 <script>
 export default {
   data() {
